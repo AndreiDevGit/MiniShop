@@ -13,7 +13,7 @@
   "devDependencies": {
     "nodemon": "^1.18.3"
   },
-    "prettier": {
+  "prettier": {
     "singleQuote": true,
     "semi": false,
     "singleAttributePerLine": true
@@ -23,6 +23,7 @@
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
+    "mysql2": "^3.9.7",
     "pug": "^2.0.3"
   }
 }
